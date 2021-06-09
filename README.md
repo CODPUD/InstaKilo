@@ -1,2 +1,2 @@
 # InstaKilo
-This is an unofficial and simple library for Instagram.
+This is an unofficial and simple API library for Instagram.
